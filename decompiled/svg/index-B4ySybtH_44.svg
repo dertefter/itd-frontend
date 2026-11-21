@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="${r??""} ${n?t8.lit:""}" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+  <defs>
+    <clipPath>
+      <ellipse cx="50" cy="58" rx="33.5" ry="27.5"/>
+    </clipPath>
+  </defs>
+  <clipPath>
+    <ellipse cx="50" cy="58" rx="33.5" ry="27.5"/>
+  </clipPath>
+  <ellipse cx="50" cy="58" rx="33.5" ry="27.5"/>
+  <g clip-path="url(#${a})" fill="#ffd35a" stroke="#5a2410" stroke-width="1.1" stroke-linejoin="round">
+    <polygon/>
+  </g>
+  <polygon/>
+</svg>

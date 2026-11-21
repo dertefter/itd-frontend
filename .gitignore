@@ -1,2 +1,24 @@
-node_modules/
+# Virtual environment
 .venv/
+venv/
+ENV/
+
+# Node dependencies
+node_modules/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary decompiler / build files
+decompiled_tmp/
+*.log

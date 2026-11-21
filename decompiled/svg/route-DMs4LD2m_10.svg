@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 ${n} ${n}" aria-hidden="true">
+  <circle r="15" fill="none" stroke="rgba(255, 255, 255, 0.3)" stroke-width="3"/>
+  <circle r="15" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" transform="rotate(-90 ${a} ${a})"/>
+</svg>

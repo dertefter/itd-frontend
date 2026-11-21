@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="${ie.sigil} ${ie.latin}" viewBox="0 0 100 100" aria-hidden="true">
+  <path id="hw-latin-${t}" d="M50 6a44 44 0 1 1 0 88a44 44 0 1 1 0-88" fill="none"/>
+  <text/>
+</svg>

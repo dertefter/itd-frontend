@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" class="${bt.ring} ${r?"":bt.ringSpin}" width="24" height="24" viewBox="0 0 ${Gt} ${Gt}" aria-hidden="true">
+  <circle fill="none" stroke="rgba(255,255,255,0.25)"/>
+  <circle fill="none" stroke="#fff" stroke-linecap="round"/>
+</svg>
